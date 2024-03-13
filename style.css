@@ -2,3 +2,23 @@
     border-top: 1px solid rgb(243, 238, 238);
     border-bottom:1px solid rgb(243, 238, 238); ;
 }
+.star-icon{
+    color: orange;
+}
+h6,p{
+    color:gray;
+}
+.btn-1 a{
+    color: rgb(182, 37, 131);
+    text-decoration: none;
+    
+}
+.color-1{
+    color: rgb(209, 84, 157);
+}
+.end h3,h4,h5{
+    color:white;
+}
+.icon{
+    color:white;
+}
